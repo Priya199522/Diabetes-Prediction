@@ -1,8 +1,8 @@
 # Diabetes-Prediction
+• Collected a publicly available diabetes dataset from the web and carried out data cleaning and preprocessing to ensure data consistency and quality.
 
+• Performed initial data analysis followed by Exploratory Data Analysis (EDA) to identify patterns and relationships between patient features and diabetes risk.
 
-• The dataset is collected from web.
-• The data was cleaned and processed and analysed before EDA.
-• Scikit learn, pandas, numpy, matplotlib and seaborn used for model building, 
-  analysis, predictive modelling and visualization.
-• Built a Logistic Regression model with accuracy 70%.
+• Utilized scikit-learn, pandas, NumPy, matplotlib, and seaborn for data handling, visualization, and model development.
+
+• Developed a Logistic Regression model to predict diabetes presence, achieving an accuracy of 70%.
